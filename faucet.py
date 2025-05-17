@@ -37,7 +37,7 @@ BANNER = f"""
 {Fore.CYAN}{Style.BRIGHT}╔════════════════════════════════════════════════╗
 ║     🌟 PHAROS BOT - Auto Claim & Transfer      ║
 ║  Automate Pharos Network faucet and transfers  ║
-║    Developed by: https://t.me/sentineldiscus   ║
+║    Developed by:  https://github.com/Hustler76  ║
 ╚════════════════════════════════════════════════╝{Style.RESET_ALL}
 """
 
